@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     color: red;
     background-color: black;
@@ -90,3 +91,98 @@ img {
 }
 
 
+=======
+body {
+    color: red;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;    
+    font-weight: 400;
+}
+
+h1, h2 {
+    
+}
+
+h2 {
+    font-weight: 600;
+    text-align: left;
+    
+}
+
+li {
+    
+    
+}
+
+p {
+    color:blue;
+    
+}
+
+
+.red-color-headlineone {
+    color:blue;
+    
+}
+
+.modifica-line-height {
+    line-height: 100px;
+
+    
+}
+    
+.motivazione {
+    color: rgb(255, 86, 156);   
+
+}
+    
+
+.profilo-github {
+    color: green;
+    margin: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.pc-nuovo {
+    color: green;
+}
+
+.modifica-padding-prova {
+    border-left: 20px solid white;
+    padding-left: 20px;
+    margin-left: 20px;  
+     
+}
+
+.prova-justify {
+    text-align: justify;
+}
+
+.prova-width {
+    width: 80%;
+    outline: 1px solid white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.prova-min-width {
+
+}
+
+.overflow-test {
+  background-color: blue;
+  color: white;
+  font-size: 20px;     
+  outline: 2px solid yellow;
+  
+}
+
+
+>>>>>>> 6112b92 (Primo salvataggio con Git)
