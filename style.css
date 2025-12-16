@@ -82,12 +82,3 @@ img {
     min-width: 400px;
 
 }
-
-.overflow-test {
-  background-color: blue;
-  color: white;
-  font-size: 20px;
-  width: 1200px;       
-  white-space: nowrap; 
-}
-
