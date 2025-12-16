@@ -79,6 +79,7 @@ img {
 }
 
 .prova-min-width {
+    min-width: 400px;
 
 }
 
@@ -88,5 +89,6 @@ img {
   font-size: 20px;     
   outline: 2px solid yellow;
 }
+
 
 
