@@ -6,6 +6,13 @@ body {
     font-weight: 400;
 }
 
+header {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
 h1, h2 {
     
 }
@@ -94,3 +101,22 @@ img {
     color: green;
 }
 
+.Babbo-foto-tennistavolo {
+    max-width: 100%;
+}
+
+@media (min-width: 768px)  {
+    .Babbo-foto-tennistavolo {
+    max-width: 700px;
+    }
+}
+
+.aggiungi-margine {
+    margin-top: 50px;
+}
+
+.nomi-giocatori {
+    margin: 0 0 10px 240px;
+    color: white;
+    font-size: 18px;
+}
