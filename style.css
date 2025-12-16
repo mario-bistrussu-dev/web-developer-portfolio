@@ -74,7 +74,7 @@ p {
 }
 
 img {
-    max-width: 100%;
+    max-width: 500px;
     height: auto;
 }
 
@@ -89,6 +89,5 @@ img {
   font-size: 20px;     
   outline: 2px solid yellow;
 }
-
 
 
