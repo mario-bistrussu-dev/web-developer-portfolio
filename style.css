@@ -101,11 +101,16 @@ img {
     color: green;
 }
 
+.foto-box {
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
 .Babbo-foto-tennistavolo {
     max-width: 100%;
 }
 
-@media (min-width: 768px)  {
+@media screen and (min-width: 768px)  {
     .Babbo-foto-tennistavolo {
     max-width: 700px;
     }
@@ -116,7 +121,8 @@ img {
 }
 
 .nomi-giocatori {
-    margin: 0 0 10px 240px;
+    margin: 0 0 10px 0;
     color: white;
     font-size: 18px;
+    text-align: center;
 }
